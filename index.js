@@ -9,13 +9,10 @@ function add(string)
   console.log(string)
 }
 
-let a= 5 b=10
+var number
 
 function add(a,b)
 {
-  var a + b= '5+10'
-
-  number += 5
-
-  console.log(a,b)
+number = a + b
+return number
 }
