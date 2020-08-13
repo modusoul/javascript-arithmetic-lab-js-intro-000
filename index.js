@@ -34,3 +34,9 @@ function divide(a,b)
   number = a / b
   return a / b
 }
+
+function inc(a)
+{
+  number = a + 1
+  return number
+}
