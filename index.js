@@ -35,8 +35,8 @@ function divide(a,b)
   return a / b
 }
 
-function inc(a)
+function inc(n)
 {
-  number = a + 1
-  return number 
+  number = a + 1;
+  return number; 
 }
