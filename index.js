@@ -46,3 +46,9 @@ function decrement(n)
   number = n - 1
   return number
 }
+
+function makeInt(n)
+{
+  number = parseInt('23.232',10)
+  return number
+}
