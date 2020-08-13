@@ -40,3 +40,9 @@ function increment(n)
   number = n + 1
   return number
 }
+
+function decrement(n)
+{
+  number = n - 1
+  return number
+}
