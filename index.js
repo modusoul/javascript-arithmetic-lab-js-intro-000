@@ -1,4 +1,4 @@
-let numeber= 10
+let number= 10
 
 function add5(string)
 {
