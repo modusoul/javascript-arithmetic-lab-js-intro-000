@@ -28,3 +28,9 @@ function multiply(a,b)
   number = a * b
   return a * b
 }
+
+function divide(a,b)
+{
+  number = a / b
+  return a / b
+}
