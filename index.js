@@ -14,5 +14,5 @@ var a= 5 b= 10
 function add(a,b)
 {
 number = a + b
-return number
+return a + b 
 }
