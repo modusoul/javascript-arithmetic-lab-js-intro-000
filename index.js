@@ -11,8 +11,7 @@ function add(string)
 
 var a= 5 b= 10
 
-function add(a,b)
-{
+function add(a,b){
 number = a + b
-return a + b 
+return a + b
 }
