@@ -49,6 +49,6 @@ function decrement(n)
 
 function makeInt(n)
 {
-  n = parseInt('23', 10)
+  n = parseInt('n', 10)
   return number
 }
