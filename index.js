@@ -1,6 +1,6 @@
 let number= 10
 
-function add5(string)
+function add(string)
 {
   var number= '10'
 
