@@ -35,7 +35,7 @@ function divide(a,b)
   return a / b
 }
 
-function inc(n)
+function increment(n)
 {
   number = n + 1
   return number
