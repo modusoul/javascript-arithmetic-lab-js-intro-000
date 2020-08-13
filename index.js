@@ -9,7 +9,7 @@ function add(string)
   console.log(string)
 }
 
-var a= 5 b= 10
+
 
 function add(a,b){
 number = a + b
